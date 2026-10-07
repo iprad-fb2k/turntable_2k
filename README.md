@@ -7,3 +7,5 @@ Scales to fit the window.
 
 There are one options available:
 - Full assembly (full.zip)
+
+<img src="image/screenshot_1.png" width=100%>
