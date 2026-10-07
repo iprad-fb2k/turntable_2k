@@ -9,7 +9,7 @@ Implemented based on [foo_uie_wsh_panel_mod_plus](https://github.com/ttsping/foo
 Scales to fit the window.
 
 There are one options available:
-- Full assembly (full.zip)
+- Full assembly (full_turntable.zip)
 
 <img src="image/screenshot_1.png" width=100%>
 <img src="image/screenshot_2.png" width=100%>
